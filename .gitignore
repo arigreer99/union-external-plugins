@@ -1,0 +1,5 @@
+# pipeline-capture working state — contains private Gmail/deal data, never committed
+_pipeline_state/
+pipeline_state.json
+pipeline.csv
+pipeline_run_log.md
